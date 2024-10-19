@@ -1,0 +1,41 @@
+body {
+  font-family: cursive;
+  margin: 0px;
+}
+
+.header {
+  padding: 4rem;
+  background-color: rgb(6, 96, 212);
+  color: white;
+  background-image: url(/images/background.png);
+  background-size: 280px;
+  background-repeat: no-repeat;
+  background-position-x: 100%;
+  background-position-y: -160px;
+}
+h1 {
+  font-size: 4rem;
+  margin: 0px;
+  margin-bottom: 1rem;
+}
+.png {
+  width: 100px;
+}
+.header span {
+  font-size: 2rem;
+}
+.header img {
+  vertical-align: middle;
+  width: 4rem;
+  height: 4rem;
+  border-radius: 100%;
+  border: 5px solid white;
+}
+img + img {
+  margin-left: -1.5rem;
+}
+.image-container {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: right;
+}
