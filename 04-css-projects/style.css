@@ -1,0 +1,59 @@
+body {
+  font-family: sans-serif;
+  height: 100vh;
+  background-color: rgb(243, 228, 217);
+  margin: 0px;
+}
+.box {
+  padding: 25px;
+
+  width: 100%;
+  max-width: 400px;
+  margin: auto;
+  position: relative;
+  inset: 0px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  border-radius: 20px;
+
+  background-color: rgb(255, 255, 255);
+}
+img {
+  border-radius: 10px;
+  width: 100%;
+  min-height: 170px;
+  min-width: 250px;
+  max-height: 125px;
+}
+h1 {
+  text-align: left;
+  padding: 10px;
+  font-size: 2rem;
+}
+.prepare {
+  background-color: rgb(249, 236, 244);
+  border-radius: 5px;
+  color: rgb(82, 69, 59);
+  padding-bottom: 3px;
+}
+.p {
+  padding: 1px;
+}
+h3 {
+  padding-top: 5px;
+  padding-left: 9px;
+  color: rgb(137, 91, 110);
+}
+h2 {
+  font-weight: bold;
+  color: rgb(138, 74, 57);
+}
+.chart {
+  color: rgb(138, 74, 57);
+}
+.i {
+  padding: 2px;
+}
+.in {
+  padding: 8px;
+}
