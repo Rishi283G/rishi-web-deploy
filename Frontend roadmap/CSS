@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Frontend roadmap</title>
+  </head>
+  <body style="font-family: sans-serif">
+    <h1>CSS</h1>
+    <p>Also known as Cascade style Sheets</p>
+  </body>
+</html>
