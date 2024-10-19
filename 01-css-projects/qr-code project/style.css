@@ -1,0 +1,31 @@
+body {
+  min-height: 100vh;
+  background-color: rgb(213, 225, 239);
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.card {
+  font-weight: 400, 200;
+  position: absolute;
+  margin: auto;
+  inset: 0;
+  height: 470px;
+  max-width: 302px;
+  width: 100%;
+  background-color: white;
+  box-shadow: -14px 8px 20px 3px rgb(137, 142, 152);
+  border-radius: 16px;
+  padding: 1rem;
+  padding-bottom: 3rem;
+}
+img {
+  width: 100%;
+  border-radius: 10px;
+}
+h2 {
+  color: rgb(31, 50, 81);
+}
+p {
+  color: hsl(216, 15%, 48%);
+}
