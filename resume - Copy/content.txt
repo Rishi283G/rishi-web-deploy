@@ -1,0 +1,18 @@
+
+Rishi Jadhav
+Aspiring Full Stack Developer
+
+About Me
+I'm a passionate developer focused on creating beautiful and functional web applications. Currently, I'm learning full-stack development and working on various projects to enhance my skills.
+
+Projects
+Project 1: Personal Portfolio Website
+Project 2: Survey Form
+Project 3: To-Do List Application
+Contact Me
+Email: rishijadhav@example.com
+
+GitHub: github.com/rishi283
+
+© 2024 Rishi Jadhav. All Rights Reserved.
+
